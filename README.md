@@ -1,7 +1,7 @@
 # Netflix Trend Forecasting
 
 A time-series forecasting project that analyzes historical Netflix content additions and compares forecasting models to understand content release trends.
-
+https://netflix-trend-forecasting-r6vfwxabkztxcxamx62yzj.streamlit.app/
 ## Project Overview
 
 This project uses the Netflix titles dataset to:
